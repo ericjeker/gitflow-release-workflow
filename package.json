@@ -4,6 +4,7 @@
   "description": "## v1",
   "main": "index.js",
   "scripts": {
+    "start": "echo \"Start\" && exit 1"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
